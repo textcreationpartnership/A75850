@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act agreed upon at the treaty, by the Kings Majesty and the commissioners at New-port in the Isle of Wight, on Munday last, October 9. 1648 Which his Majesty hath given his Royall consent to be passed. Concerning the militia of the kingdome, and for the raising and maintaining of the forces by sea and land, within the kingdoms of England and Ireland, and dominion of Wales, the isles of Guernsey and Jersey, and the town of Barwick upon Tweed. And for the liberties of the city of London.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75850</idno>
+            <idno type="STC">Wing A446A</idno>
+            <idno type="STC">Thomason E467_19</idno>
+            <idno type="STC">ESTC R205261</idno>
+            <idno type="EEBO-CITATION">99900175</idno>
+            <idno type="PROQUEST">99900175</idno>
+            <idno type="VID">135381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135381)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2541:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act agreed upon at the treaty, by the Kings Majesty and the commissioners at New-port in the Isle of Wight, on Munday last, October 9. 1648 Which his Majesty hath given his Royall consent to be passed. Concerning the militia of the kingdome, and for the raising and maintaining of the forces by sea and land, within the kingdoms of England and Ireland, and dominion of Wales, the isles of Guernsey and Jersey, and the town of Barwick upon Tweed. And for the liberties of the city of London.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson, in Smithfield, neer the Queenes-head tavern,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber ye 12".</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135381:1" rendition="simple:additions"/>
+            <p>AN Act Agreed upon at the Treaty, <hi>By the Kings Majeſty and the Commiſsi<g ref="char:EOLhyphen"/>oners at</hi> New-port <hi>in the Iſle of</hi> Wight, <hi>on</hi> Munday laſt, October 9. 1648.</p>
+            <p>Which his Majeſty hath given his Royall con<g ref="char:EOLhyphen"/>ſent to be PASSED.</p>
+            <p>Concerning the MILITIA of the Kingdome, and for the raiſing and maintaining of the Forces by Sea and Land, within the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales,</hi> the Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed.</hi>
+            </p>
+            <p>And for the Liberties of the City of LONDON:</p>
+            <p>Printed by <hi>Robert Ibbitſon,</hi> in Smithfield, neer the Queenes-head Tavern, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135381:2"/>
+            <pb n="1" facs="tcp:135381:2" rendition="simple:additions"/>
+            <head>Soit Baillè aux Seigneurs. A Ceſte Bille les Seigneurs ſont aſſentuz</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Enacted by the Kings Majeſty, &amp; by the Lords and Commons aſſembled in Parliament, and by the authourity of the ſame, That the Lords &amp; Com<g ref="char:EOLhyphen"/>mons in the Parliament of <hi>England</hi> aſ<g ref="char:EOLhyphen"/>ſembled, ſhall during the ſpace of twenty years, from the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Arme, Train, and Diſcipline, or cauſe to bee Armed, Trained, and Diſciplined, all the Forces of the kingdoms of <hi>England</hi> and <hi>Ireland,</hi> &amp; Dominion of <hi>Wales,</hi> the Iſles of <hi>Guern<g ref="char:EOLhyphen"/>ſey</hi>
+               <pb n="2" facs="tcp:135381:3" rendition="simple:additions"/> and <hi>Jerſey,</hi> and the Towne of <hi>Barwick</hi> upon <hi>Tweed,</hi> already raiſed both for Sea &amp; Land ſer<g ref="char:EOLhyphen"/>vice, and ſhall from time to time, during the ſaid ſpace of twenty years Raiſe, Leavy, Arme, Train, and Diſcipline, or cauſe to be raiſed, leavyed, arm<g ref="char:EOLhyphen"/>ed, trained, and diſciplined any other Forces for Land and Sea ſervice, in the Kingdoms, Domini<g ref="char:EOLhyphen"/>ons, and places aforeſaid, as in their iudgements they ſhall from time to time, during the ſaid ſpace of 20 years think fit, and appoint: and that neither the King his Heirs or Succeſſors, nor any other, but ſuch as ſhall act by the Authority or approba<g ref="char:EOLhyphen"/>tion of the ſaid Lords and Commons, ſhall during the ſaid ſpace of twenty years, exerciſe any of the Powers aforeſaid.</p>
+            <p>And that monies be raiſed and leavied for the maintenance and uſe of the ſaid forces for land ſervice, and of the Navy and Forces for ſea-ſer<g ref="char:EOLhyphen"/>vice, in ſuch ſort and by ſuch wayes and meanes as the ſaid Lords and Commons ſhall from time to time during the ſaid ſpace of twenty years think fit and appoint and not otherwiſe That all the ſaid Forces both for Land and Sea ſervice, ſo raiſed or leavied or to bee raiſed or leavied, and alſo the Admiralty and Navy, ſhall from time to time during the ſaid ſpace of twenty yeares, be imployed, managed, ordered and diſpoſed by the ſaid Lords and Commons in ſuch ſort, and by ſuch waies and meanes as they ſhall thinke fit, and appoint And the ſaid Lords and Commons during the ſaid ſpace of twenty yeares ſhall have power:</p>
+            <p n="1">
+               <pb n="3" facs="tcp:135381:3" rendition="simple:additions"/>1 To ſuppreſſe all forces raiſed or to be raiſed, without authority and conſent of the ſaid Lords and Commons, to the diſturbance of the publique peace of the kingdoms of <hi>England</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales,</hi> the Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> or any of them</p>
+            <p n="2">2 To ſuppreſſe any forraign Forces who ſhall invade, or indevour to invade the Kingdoms of <hi>En<g ref="char:EOLhyphen"/>gland</hi> and <hi>Ireland</hi> Dominion of <hi>Wales</hi> the Iſles of <hi>Guernſey</hi> &amp; <hi>Jerſey,</hi> and the Town of <hi>Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wick</hi> upon <hi>Tweed</hi> or any of them.</p>
+            <p n="3">3 To conioyn ſuch forces of the kingdom of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> as the ſaid Lords and Commons ſhall from time to time during the ſaid ſpace of 20 years, iudge fit and neceſſary: To reſiſt all forain invaſions &amp; to ſuppreſſe any forces, raiſed or to bee raiſed a<g ref="char:EOLhyphen"/>gainſt, or within the kingdom, to the diſturbance of the publique peace of the kingdome, by any au<g ref="char:EOLhyphen"/>thority under the Great Seale, or other Warrant whatſoever without conſent of the ſaid Lords and Commons of the Parliament of <hi>England.</hi> And that after the expiration of the ſaid twenty years, nei<g ref="char:EOLhyphen"/>ther the King, his Heirs or Succeſſors, or any per<g ref="char:EOLhyphen"/>ſon or perſons, by colour or pretence of any Com<g ref="char:EOLhyphen"/>miſſion Power, Deputation, or authority to be de<g ref="char:EOLhyphen"/>rived from the King, his Heirs or Succeſſors, or any of them ſhall Raiſe, Arme, Traine, Diſcipline, Imploy, Order, Mannage, Diſband, or Diſ<g ref="char:EOLhyphen"/>poſe any of the Forces by Sea, or Land, of the kingdomes of <hi>England</hi> and <hi>Ireland,</hi> the Dominion
+<pb n="4" facs="tcp:135381:4" rendition="simple:additions"/> of <hi>Wales</hi> Iſles of <hi>Guernſey,</hi> &amp; <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon Tweed, Nor exerciſe any of the ſaid powers or authorities in the precedent Arti<g ref="char:EOLhyphen"/>cles mentioned and expreſſed to be during the ſaid ſpace of twenty yeares in the ſaid Lords and Commons; Nor doe any Act or thing concerning the execution of the ſaid powers, or authorities, or any of them, without the conſent of the ſaid Lords and Commons firſt had, and obtained. That after the expiration of the ſaid 20 years, in all caſes wherein the Lords &amp; Commons ſhall de<g ref="char:EOLhyphen"/>clare the ſafety of the kingdome to be concerned, and ſhall thereupon paſſe any Bill or Bils for the raiſing, arming, training, diſciplining, imploying, mannaging, ordering or diſpoſing of the Forces by Sea or Land, of the kingdomes of <hi>England</hi> and <hi>Ireland</hi> the Dominion of <hi>Wales,</hi> Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed</hi> or any part of the ſaid Forces, or concerning the Admiralty and Navy, or concerning the levying of monies for the raiſing maintenance, or uſe of the ſaid Forces for Land ſervice, or for the Navy, and Forces for Sea ſervice, or of any part of them; And if that the Royall aſſent to ſuch Bill or Bils ſhall not be given in the Houſe of Peers, within ſuch time after the paſſing therof by both Houſes of Parliament, as the ſaid Houſes ſhall iudge fit and convenient: That then ſuch Bill or Bils ſo paſ<g ref="char:EOLhyphen"/>ſed by the ſaid Lords and Commons as aforeſaid, and to which the Royall aſſent ſhal not be given as is herein before expreſſed, ſhall nevertheleſſe after declaration of the ſaid Lords and Commons made
+<pb n="5" facs="tcp:135381:4"/> in that behalf, have the force &amp; ſtrength of an Act or Acts of Parliament: And ſhall be as valid to all intents and purpoſes, as if the Royall aſſent had been given thereunto.</p>
+            <p>
+               <hi>Provided, that nothing herein before contained ſhall extend to the taking a<g ref="char:EOLhyphen"/>way of the ordinary legal power of She<g ref="char:EOLhyphen"/>riffes, Iuſtices of Peace, Mayors, Bai<g ref="char:EOLhyphen"/>liffs, Coroners, Conſtables, Headborows or other Officers of Iuſtice, not being Military Officers, concerning the admi<g ref="char:EOLhyphen"/>niſtratio<g ref="char:cmbAbbrStroke">̄</g> of Iuſtice, ſo as neither the ſaid Sheriffes, Iuſtices of Peace, Mayors, Bailiffes, Coroners, Conſtables, Head<g ref="char:EOLhyphen"/>boroughs, and other Officers, nor any of them, doe leavy, conduct, imploy, or com<g ref="char:EOLhyphen"/>mand any forces whatſoever, by colour or pretence of any Commiſſion of Array, or extraordinary command from His ma<g ref="char:EOLhyphen"/>jeſty, His Heirs or Succeſſors, without the conſent of the ſaid Lords &amp; Co<g ref="char:cmbAbbrStroke">̄</g>mons.</hi>
+            </p>
+            <p>
+               <hi>And if any perſons ſhall be gathered and aſſembled together in warlike man<g ref="char:EOLhyphen"/>ner, or otherwiſe to the number of thirty perſons, and ſhall not forthwith dis<g ref="char:EOLhyphen"/>band themſelves being required there<g ref="char:EOLhyphen"/>to
+<pb n="6" facs="tcp:135381:5" rendition="simple:additions"/> by the ſaid Lords &amp; Co<g ref="char:cmbAbbrStroke">̄</g>mons, or com<g ref="char:EOLhyphen"/>mand fro<g ref="char:cmbAbbrStroke">̄</g> the<g ref="char:cmbAbbrStroke">̄</g>, or any of the<g ref="char:cmbAbbrStroke">̄</g>, eſpecially au<g ref="char:EOLhyphen"/>thorized for that purpoſe, then ſuch per<g ref="char:EOLhyphen"/>ſon or perſons not ſo disbanding them<g ref="char:EOLhyphen"/>ſelves, ſhall be guilty and incur the pains of high treaſon, being firſt declared guil<g ref="char:EOLhyphen"/>ty of ſuch offence by the ſaid Lords and Commons; Any Commiſsion under the great Seal or other warrant to the con<g ref="char:EOLhyphen"/>trary notwithſtanding.</hi>
+            </p>
+            <p>
+               <hi>And he, or they that ſhall offend herein to bee incapable of any pardon from his Maieſty, his Heires or Succeſſors, and their Eſtates ſhal be diſpoſed as the ſaid Lords and Commons ſhall thinke fit, and no otherwiſe.</hi>
+            </p>
+            <p>
+               <hi>Provided that the City of <hi>London,</hi> ſhal have and inioy all their Rights, Liber<g ref="char:EOLhyphen"/>ties and Franchiſes, Cuſtomes, and uſa<g ref="char:EOLhyphen"/>ges in the raiſing, and imploying the for<g ref="char:EOLhyphen"/>ces of that City, for the defence thereof, in as full and ample manner, to all intents and purpoſes, as they have or might have uſed or inioyed the ſame at any time before the making of this Act.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Newport</hi> 
+                  <date>
+                     <hi>9 Oct. 1648.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>Finis</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
